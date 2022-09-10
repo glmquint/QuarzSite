@@ -2,4 +2,6 @@
 title: 👨‍💻 GlmQuint Index
 ---
 
-Welcome to my site!
+Welcome to my site
+
+[[config]]

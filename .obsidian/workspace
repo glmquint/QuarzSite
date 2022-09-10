@@ -128,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "419fb11eeacbb37d",
+  "active": "6ca5faedb6f10296",
   "lastOpenFiles": [
+    "content/notes/config.md",
+    "content/_index.md",
     "content/notes/obsidian.md",
     "content/notes/preview changes.md",
     "screenshot.png",
@@ -137,8 +139,6 @@
     "CODE_OF_CONDUCT.md",
     "static/icon.png",
     "content/notes/images/obsidian-settings.png",
-    "content/notes/images/google-domains.png",
-    "content/notes/images/github-pages.png",
-    "content/notes/images/github-actions.png"
+    "content/notes/images/google-domains.png"
   ]
 }
