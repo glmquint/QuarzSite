@@ -1,5 +1,5 @@
-baseURL = "https://glmquint.github.io/"
-languageCode = "en-us"
+baseURL = "https://glmquint.github.io/QuarzSite/"
+languageCode = "it-IT"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
